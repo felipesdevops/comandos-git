@@ -28,9 +28,23 @@ Comandos do GITHUB (Desde o primeiro commit até o pull request)
 
     4.1 git status -> Caso tenha alterado um dos arquivos o git status vai mostrar que foi modificado
 
+    4.2 git commit -m "Como usar o GIT" -> Adiciona o titulo do commit
+
     4.2 git push origin main -> O comando remote é adcionado somente uma vez nesse caso só mandar o push na branch main
 
+5. Branch é uma ramificação do projeto (Adicionar um nova implementação no projeto)
+
+    5.1 git checkout -b "Nova-Branch" -> Cria uma nova branch chamada Nova-Branch
+
     
+
+
+
+
+
+
+
+
 
 
 
