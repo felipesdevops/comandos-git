@@ -46,6 +46,26 @@ Comandos do GITHUB (Desde o primeiro commit até o pull request)
 
     7.2 git push origin main -> Após juntar dê um push para enviar o arquivo 
 
+8. Para puxar os arquivos do GIT para sua máquina utilize:
+
+    8.1 Clique no botão code e em Clone tem um link para obtermos os arquivos
+
+    8.2 Acesse a pasta para realizar o clone, ou clique com esquerdo mouse e vá em git bash here 
+
+    8.3 git clone link -> Com link em posse use o comando para obter as pastas
+
+    8.4 git pull -> Entre na pasta do arquivo na máquina, caso ele foi alterado ou adicionado novos arquivos esse comando vai trazer para a máquina. (PEGA AS ALTERAÇÕES FEITAS)
+
+9. Com fork você adiciona o projeto de uma pessoa ao seu github 
+
+10. Pull request -> Ele servirá para caso você deseje enviar para o dono do repositório original uma solicitação de pull, ou seja, fazer com que ele puxe as alterações que você fez no seu repositório para o repositório dele, original
+
+
+
+
+
+
+
 
 
 
