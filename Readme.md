@@ -24,7 +24,21 @@ Comandos do GITHUB (Desde o primeiro commit até o pull request)
 
     3.9 Após isso fazer o login para que o push seja executado! Uma mensagem de erro ou sucesso é retornada.
 
+4. git add . -> Para adicionar todos os arquivos da pasta para serem comitados ou manda somente add nome_do_arquivo a ser commitado.
+
+    4.1 git status -> Caso tenha alterado um dos arquivos o git status vai mostrar que foi modificado
+
+    4.2 git push origin main -> O comando remote é adcionado somente uma vez nesse caso só mandar o push na branch main
+
     
+
+
+
+
+
+
+
+
 
 
 
