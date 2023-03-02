@@ -36,7 +36,17 @@ Comandos do GITHUB (Desde o primeiro commit até o pull request)
 
     5.1 git checkout -b "Nova-Branch" -> Cria uma nova branch chamada Nova-Branch
 
-    
+6. Para voltar para branch main use:
+
+    6.1 git checkout main
+
+7. Para juntar uma branch com a main use:
+
+    7.1 git merge Nova-Branch -> Para juntar as duas branch
+
+    7.2 git push origin main -> Após juntar dê um push para enviar o arquivo 
+
+
 
 
 
